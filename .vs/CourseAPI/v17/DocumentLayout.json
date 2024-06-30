@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\CourseAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|c:\\users\\hp\\desktop\\courseapi\\service\\dtos\\admin\\groups\\groupcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\groups\\groupcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|c:\\users\\hp\\desktop\\courseapi\\service\\dtos\\admin\\educations\\educationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\educations\\educationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|c:\\users\\hp\\desktop\\courseapi\\service\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|c:\\users\\hp\\desktop\\courseapi\\service\\services\\interfaces\\ieducationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\ieducationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|c:\\users\\hp\\desktop\\courseapi\\service\\services\\educationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|solutionrelative:service\\services\\educationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|c:\\users\\hp\\desktop\\courseapi\\service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|solutionrelative:service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F77F1-9865-46B2-A269-48D1451E37CD}|CourseAPI\\CourseAPI.csproj|c:\\users\\hp\\desktop\\courseapi\\courseapi\\controllers\\admin\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0F77F1-9865-46B2-A269-48D1451E37CD}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\controllers\\admin\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F77F1-9865-46B2-A269-48D1451E37CD}|CourseAPI\\CourseAPI.csproj|c:\\users\\hp\\desktop\\courseapi\\courseapi\\controllers\\admin\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0F77F1-9865-46B2-A269-48D1451E37CD}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\controllers\\admin\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\courseapi\\repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\courseapi\\repository\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|c:\\users\\hp\\desktop\\courseapi\\service\\helpers\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|solutionrelative:service\\helpers\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\courseapi\\repository\\repositories\\interfaces\\ieducationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\ieducationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\courseapi\\domain\\entites\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|solutionrelative:domain\\entites\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\courseapi\\domain\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|solutionrelative:domain\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\courseapi\\domain\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|solutionrelative:domain\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\courseapi\\domain\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|solutionrelative:domain\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\courseapi\\domain\\configurations\\educationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|solutionrelative:domain\\configurations\\educationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|c:\\users\\hp\\desktop\\courseapi\\service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|solutionrelative:service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|c:\\users\\hp\\desktop\\courseapi\\service\\dtos\\admin\\educations\\educationeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\educations\\educationeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|c:\\users\\hp\\desktop\\courseapi\\service\\dtos\\admin\\educations\\educationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\educations\\educationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|c:\\users\\hp\\desktop\\courseapi\\service\\dtos\\admin\\groups\\groupeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\groups\\groupeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\courseapi\\domain\\entites\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|solutionrelative:domain\\entites\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\courseapi\\domain\\entites\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE48047-1B7B-436F-9BCC-059D8ACD8E34}|Domain\\Domain.csproj|solutionrelative:domain\\entites\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|c:\\users\\hp\\desktop\\courseapi\\service\\dtos\\admin\\groups\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4D19-F79B-443F-889D-F35C2B31E4A5}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\groups\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Migrations\\20240630152955_CreatedEducationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\Migrations\\20240630152955_CreatedEducationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\courseapi\\repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|solutionrelative:repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\courseapi\\repository\\repositories\\educationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\educationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\courseapi\\repository\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\courseapi\\repository\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\courseapi\\repository\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\courseapi\\repository\\repositories\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\courseapi\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CCB625-C436-40B7-A1A1-BFA32A16F7E2}|Repository\\Repository.csproj|solutionrelative:repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEducationService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\Services\\Interfaces\\IEducationService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IEducationService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\Services\\Interfaces\\IEducationService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\IEducationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:50:19.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EducationController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\CourseAPI\\Controllers\\Admin\\EducationController.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Controllers\\Admin\\EducationController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\CourseAPI\\Controllers\\Admin\\EducationController.cs",
+              "RelativeToolTip": "CourseAPI\\Controllers\\Admin\\EducationController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAC4AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T17:12:19.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EducationService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\Services\\EducationService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\EducationService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\Services\\EducationService.cs",
+              "RelativeToolTip": "Service\\Services\\EducationService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwE0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:21:28.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Service\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DependencyInjection.cs",
+              "RelativeToolTip": "Service\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:32:18.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\IGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:49:47.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EducationCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DTOs\\Admin\\Educations\\EducationCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Educations\\EducationCreateDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DTOs\\Admin\\Educations\\EducationCreateDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Admin\\Educations\\EducationCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:52:29.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DTOs\\Admin\\Groups\\GroupCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Groups\\GroupCreateDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DTOs\\Admin\\Groups\\GroupCreateDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Admin\\Groups\\GroupCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:49:20.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\CourseAPI\\Controllers\\Admin\\GroupController.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Controllers\\Admin\\GroupController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\CourseAPI\\Controllers\\Admin\\GroupController.cs",
+              "RelativeToolTip": "CourseAPI\\Controllers\\Admin\\GroupController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T17:12:03.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:27:45.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\Helpers\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\Helpers\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Service\\Helpers\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:45:44.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEducationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\Interfaces\\IEducationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\IEducationRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\Interfaces\\IEducationRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IEducationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:05:21.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Entites\\StudentGroup.cs",
+              "RelativeDocumentMoniker": "Domain\\Entites\\StudentGroup.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Entites\\StudentGroup.cs",
+              "RelativeToolTip": "Domain\\Entites\\StudentGroup.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:22:50.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:11:45.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Entites\\Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Entites\\Student.cs",
+              "RelativeToolTip": "Domain\\Entites\\Student.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:22:44.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Configurations\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "Domain\\Configurations\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Configurations\\StudentConfiguration.cs",
+              "RelativeToolTip": "Domain\\Configurations\\StudentConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:05:38.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GroupConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Configurations\\GroupConfiguration.cs",
+              "RelativeDocumentMoniker": "Domain\\Configurations\\GroupConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Configurations\\GroupConfiguration.cs",
+              "RelativeToolTip": "Domain\\Configurations\\GroupConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:05:32.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EducationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Configurations\\EducationConfiguration.cs",
+              "RelativeDocumentMoniker": "Domain\\Configurations\\EducationConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Configurations\\EducationConfiguration.cs",
+              "RelativeToolTip": "Domain\\Configurations\\EducationConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:15:44.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Helpers\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:49:29.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EducationEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DTOs\\Admin\\Educations\\EducationEditDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Educations\\EducationEditDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DTOs\\Admin\\Educations\\EducationEditDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Admin\\Educations\\EducationEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:08:44.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EducationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DTOs\\Admin\\Educations\\EducationDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Educations\\EducationDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DTOs\\Admin\\Educations\\EducationDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Admin\\Educations\\EducationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:52:08.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GroupEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DTOs\\Admin\\Groups\\GroupEditDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Groups\\GroupEditDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DTOs\\Admin\\Groups\\GroupEditDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Admin\\Groups\\GroupEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:49:24.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Education.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Entites\\Education.cs",
+              "RelativeDocumentMoniker": "Domain\\Entites\\Education.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Entites\\Education.cs",
+              "RelativeToolTip": "Domain\\Entites\\Education.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:15:55.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GroupDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DTOs\\Admin\\Groups\\GroupDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Groups\\GroupDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Service\\DTOs\\Admin\\Groups\\GroupDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Admin\\Groups\\GroupDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:49:22.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Entites\\Group.cs",
+              "RelativeDocumentMoniker": "Domain\\Entites\\Group.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Domain\\Entites\\Group.cs",
+              "RelativeToolTip": "Domain\\Entites\\Group.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:16:16.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240630152955_CreatedEducationtable.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Migrations\\20240630152955_CreatedEducationtable.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20240630152955_CreatedEducationtable.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Migrations\\20240630152955_CreatedEducationtable.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20240630152955_CreatedEducationtable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:29:55.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EducationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\EducationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\EducationRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\EducationRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\EducationRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:11:42.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:11:06.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:12:06.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\GroupRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\GroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:11:47.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Repository\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\DependencyInjection.cs",
+              "RelativeToolTip": "Repository\\DependencyInjection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:12:30.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\Interfaces\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Repositories\\Interfaces\\IGroupRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IGroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:05:23.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CourseAPI\\Repository\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:07:42.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
